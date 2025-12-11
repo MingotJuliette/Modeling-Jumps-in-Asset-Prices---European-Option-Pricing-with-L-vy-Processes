@@ -24,7 +24,7 @@ The project is organized into **Markdown documents** and **Python scripts**:
 
 ## Markdown Documentation
 - [Lévy Processes Overview](docs/markdown/levy-processes.md) – fundamental theory of Lévy processes.  
-- [Model and Estimation](docs/markdown/option-pricing-fourier.md) – Variance–Gamma and Merton models, with parameter estimation methods (MLE, ECF).  
+- [Model and Estimation](docs/markdown/model-and-estimation.md) – Variance–Gamma and Merton models, with parameter estimation methods (MLE, ECF).  
 - [Option Pricing via Fourier](docs/markdown/option-pricing-fourier.md) – European call pricing using the Carr–Madan method.  
 - [Calibration and Results](notebook_result/calibration-result.md) – parameter estimation, model comparison, and option pricing results.  
 
