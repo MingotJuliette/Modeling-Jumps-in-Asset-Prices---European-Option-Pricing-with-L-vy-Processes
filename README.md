@@ -20,7 +20,7 @@ This project is primarily educational and focuses on understanding the mathemati
 The project is organized into **Markdown documents** and **Python scripts**:
 
 ## PDF Documentation
-- [European Option Pricing with Lévy Processes](docs\European_Option_Pricing_with_Lévy_Processes.pdf) – mathematical roadmap explaining in detail each step and the intuition behind each method (mathematical demonstrations in the appendix).
+- [European Option Pricing with Lévy Processes](docs/European_Option_Pricing_with_Lévy_Processes.pdf) – mathematical roadmap explaining in detail each step and the intuition behind each method (mathematical demonstrations in the appendix).
 
 ## Markdown Documentation
 - [Lévy Processes Overview](docs/markdown/levy-processes.md) – fundamental theory of Lévy processes.  
