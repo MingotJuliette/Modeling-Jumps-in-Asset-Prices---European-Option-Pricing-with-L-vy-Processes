@@ -117,5 +117,5 @@ $$
   - Probability mass above $K$ → higher expected payoff contribution.  
 
 **Conclusion:**  
+The model generated a European call price of 245.26 compared to a market price of 259.91, corresponding to approximately 5–6\% below the observed market price. The simulated terminal distribution of $S_T$ exhibited pronounced right skewness, with the strike located slightly above the central mass of the distribution. While the model captured asymmetric tail behavior and produced a realistic payoff structure, the pricing gap suggests that the calibrated parameters did not fully reproduce the market-implied right-tail risk. This divergence likely reflects either residual limitations in the jump specification (e.g., insufficient positive tail intensity) or the presence of risk premia embedded in option prices that are not captured by statistically estimated parameters.
 
-- Purchasing the 6-month European call appears attractive: high in-the-money probability + simulated price below market → favorable gain potential.
